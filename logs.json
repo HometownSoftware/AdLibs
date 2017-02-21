@@ -1,0 +1,27 @@
+{
+	"title": "The Address of a Log Cabin",
+	"text": "Four score and {0} years ago our {1} brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.\nNow we are engaged in a {2} civil war, {3} whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a {4} {5} of that war. We have come to dedicate a portion of that {6}, as a final {7} place for those who here {8} their {9} that that nation might live. It is altogether fitting and proper that we should do this.\nBut, in a larger sense, we can not dedicate -- we can not consecrate -- we can not hallow -- this {10}. The brave men, living and dead, who {11} here, have {12} it, far above our {13} power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be {14} here to the unfinished {15} which they who {16} here have thus far so nobly advanced. It is rather for us to be here {17} to the great task remaining before us -- that from these honored dead we take increased devotion to that cause for which they {18} the last full measure of devotion -- that we here {19} resolve that these dead shall not have {20} in vain -- that this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth.",
+	"terms":[
+			"Number",
+			"Name of relative (plural)",
+			"Adjective",
+			"\"ing\" verb",
+			"Adjective",
+			"Noun",
+			"Noun",
+			"\"ing\" verb",
+			"Verb",
+			"Noun (plural)",
+			"Noun",
+			"Verb (past tense)",
+			"Verb (past tense)",
+			"Adjective",
+			"Verb (past tense)",
+			"Noun",
+			"Verb (past tense)",
+			"Verb (past tense)",
+			"Verb (past tense)",
+			"Adverb",
+			"Verb (past tense)"
+			]
+}
